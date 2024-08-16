@@ -22,5 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aspee12&show_icons=true&locale=en" alt="aspee12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aspee12&" alt="aspee12" /></p>
-##
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aspee12&theme=windows-dark&hide_border=true)](https://git.io/streak-stats)
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Github Stats
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Github Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aspee12&show_icons=true&theme=transparent) ##
