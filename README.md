@@ -113,7 +113,7 @@ I'm a passionate software developer who loves building elegant solutions to comp
 ## 🔥 Streak Stats
 
 <p align="center" margin-top="6px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aspee12&theme=radical&hide_border=true&count_private=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aspee12&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
 <!-- <p align="center">
