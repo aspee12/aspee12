@@ -135,14 +135,23 @@ I'm a passionate software developer who loves building elegant solutions to comp
 
 Here are some of my notable projects:
 
-### 🌟 [Project Name 1](https://github.com/your-username/project-1)
-Brief description of your first project and the technologies used.
+### 🌟 [Appointment Scheduler](https://github.com/aspee12/Appointment-Scheduler)
+**Description:**  
+Developed a web-based Appointment Scheduling System designed for organizations that manage bookings and time-based services. The system allows users to book, update, and cancel appointments while enabling administrators to manage schedules efficiently.
+**Technologies:** Angular, HTML, CSS, JSON API  
 
-### 🌟 [Project Name 2](https://github.com/your-username/project-2)
-Brief description of your second project and the technologies used.
+### 🌟 [Tourism Revenue Prediction](https://github.com/aspee12/machine-learning-project)
+**Description:**
+Built a machine-learning model to predict tourism revenue based on historical data,
+visitor patterns, seasons, and economic indicators.
+**Technologies:** Python, Scikit-Learn, Pandas, Linear Regression/Random Forest
 
-### 🌟 [Project Name 3](https://github.com/your-username/project-3)
-Brief description of your third project and the technologies used.
+### 🌟 [E-voting](https://github.com/aspee12/E-voting)
+**Description:**
+Created a secure E-Voting platform for digital elections within institutions. The system
+handles voter authentication, ballot casting, and result computation in an automated and
+secure manner.
+**Technologies:** PHP(Laravel), MySQL, Secure Authentication, Encryption
 
 ---
 
