@@ -21,16 +21,16 @@ I'm a passionate software developer who loves building elegant solutions to comp
 ## 🤝 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+<a href="https://www.linkedin.com/in/sonam-phuntsho-a5618b247/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://twitter.com/your-twitter-handle" target="_blank">
+<!-- <a href="https://twitter.com/your-twitter-handle" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="mailto:your.email@example.com">
+</a> -->
+<a href="mailto:sphuntsho900@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://github.com/your-github-username" target="_blank">
+<a href="https://github.com/aspee12" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://your-portfolio-website.com" target="_blank">
@@ -109,15 +109,12 @@ I'm a passionate software developer who loves building elegant solutions to comp
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aspee12&show_icons=true&locale=en" alt="aspee12" /></p> -->
 
----
 
 ## 🔥 Streak Stats
 
-<p align="center">
+<p align="center" margin-top="6px">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aspee12&theme=radical&hide_border=true&count_private=true" alt="GitHub Streak Stats"/>
 </p>
-
----
 
 <!-- <p align="center">
 ## 🏆 GitHub Trophies
@@ -149,11 +146,13 @@ Brief description of your third project and the technologies used.
 
 ---
 
-## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Blog Post Title 1](https://your-blog-link.com)
-- [Your Blog Post Title 2](https://your-blog-link.com)
-- [Your Blog Post Title 3](https://your-blog-link.com)
+<!-- 
+## 📝 Latest Blog Posts
+  - [Your Blog Post Title 1](https://your-blog-link.com)
+  - [Your Blog Post Title 2](https://your-blog-link.com)
+  - [Your Blog Post Title 3](https://your-blog-link.com)
+-->
 <!-- BLOG-POST-LIST:END -->
 
 ---
