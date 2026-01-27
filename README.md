@@ -33,10 +33,7 @@ I'm a passionate software developer who loves building elegant solutions to comp
   <a href="https://github.com/aspee12" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <!-- <a href="https://your-portfolio-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-  </a> -->
-    <a href="data:text/html,<html><body style='display:flex;justify-content:center;align-items:center;height:100vh;font-family:sans-serif;'><h1>Oops! Coming Soon 🚧</h1></body></html>" target="_blank">
+  <a href="https://spee-portfolio-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
