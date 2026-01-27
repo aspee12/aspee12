@@ -110,18 +110,16 @@ I'm a passionate software developer who loves building elegant solutions to comp
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aspee12&show_icons=true&locale=en" alt="aspee12" /></p> -->
 
 
+<!-- 
 ## 🔥 Streak Stats
-
 <p align="center" margin-top="6px">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aspee12&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
+</p> -->
 
 <!-- <p align="center">
 ## 🏆 GitHub Trophies
   <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </p> -->
-
----
 
 ## 📈 Contribution Graph
 
@@ -163,8 +161,6 @@ secure manner.
   - [Your Blog Post Title 3](https://your-blog-link.com)
 -->
 <!-- BLOG-POST-LIST:END -->
-
----
 
 ## 💭 Random Dev Quote
 
